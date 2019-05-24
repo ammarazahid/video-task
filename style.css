@@ -1,0 +1,104 @@
+body{
+    background-color: #000000;
+}
+
+article{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.icon{
+    color:#fdf733;
+    font-size: 60px;
+    margin: 7px;
+}
+
+span{
+    color:#212020;
+    font-size: 60px;
+    display: flex;
+    margin: 5px;
+
+}
+
+
+
+ :nth-child(2):hover{
+    color: #ea4963; 
+}
+
+:nth-child(2):hover :nth-child(3){
+    color: #f08eb1;
+
+}
+
+:nth-child(2):hover :nth-child(4){
+    Color: #fefefe;
+}
+
+:nth-child(2):hover :nth-child(5){
+    color: #fefefe;
+}
+
+:nth-child(2):hover :nth-child(6){
+    color: #fefefe;
+}
+
+:nth-child(2):hover :nth-child(7){
+    color: #fefefe;
+}
+
+:nth-child(2):hover :nth-child(8){
+    color: #fefefe;
+}
+
+:nth-child(2):hover :nth-child(9){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(10){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(11){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(12){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(13){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(14){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(15){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(16){
+    color: #fefefe;
+} 
+
+/* :nth-child(2):hover :nth-child(9){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(9){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(9){
+    color: #fefefe;
+} 
+
+:nth-child(2):hover :nth-child(9){
+    color: #fefefe;
+}  */
